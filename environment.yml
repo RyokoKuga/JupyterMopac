@@ -1,0 +1,7 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mopac=22.0.6=h03160e7_0
+
